@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\CM\\source\\repos\\merge sort\\merge sort\\merge sort.csproj": {}
+    "C:\\Users\\CM\\Source\\Repos\\Sorting-Algorithms\\merge sort\\merge sort\\merge sort.csproj": {}
   },
   "projects": {
-    "C:\\Users\\CM\\source\\repos\\merge sort\\merge sort\\merge sort.csproj": {
+    "C:\\Users\\CM\\Source\\Repos\\Sorting-Algorithms\\merge sort\\merge sort\\merge sort.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\CM\\source\\repos\\merge sort\\merge sort\\merge sort.csproj",
+        "projectUniqueName": "C:\\Users\\CM\\Source\\Repos\\Sorting-Algorithms\\merge sort\\merge sort\\merge sort.csproj",
         "projectName": "merge sort",
-        "projectPath": "C:\\Users\\CM\\source\\repos\\merge sort\\merge sort\\merge sort.csproj",
+        "projectPath": "C:\\Users\\CM\\Source\\Repos\\Sorting-Algorithms\\merge sort\\merge sort\\merge sort.csproj",
         "packagesPath": "C:\\Users\\CM\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\CM\\source\\repos\\merge sort\\merge sort\\obj\\",
+        "outputPath": "C:\\Users\\CM\\Source\\Repos\\Sorting-Algorithms\\merge sort\\merge sort\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\CM\\AppData\\Roaming\\NuGet\\NuGet.Config",

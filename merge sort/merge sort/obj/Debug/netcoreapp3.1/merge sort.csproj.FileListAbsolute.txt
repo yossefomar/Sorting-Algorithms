@@ -12,3 +12,17 @@ C:\Users\CM\source\repos\merge sort\merge sort\obj\Debug\netcoreapp3.1\merge sor
 C:\Users\CM\source\repos\merge sort\merge sort\obj\Debug\netcoreapp3.1\merge sort.dll
 C:\Users\CM\source\repos\merge sort\merge sort\obj\Debug\netcoreapp3.1\merge sort.pdb
 C:\Users\CM\source\repos\merge sort\merge sort\obj\Debug\netcoreapp3.1\merge sort.genruntimeconfig.cache
+C:\Users\CM\Source\Repos\Sorting-Algorithms\merge sort\merge sort\bin\Debug\netcoreapp3.1\merge sort.exe
+C:\Users\CM\Source\Repos\Sorting-Algorithms\merge sort\merge sort\bin\Debug\netcoreapp3.1\merge sort.deps.json
+C:\Users\CM\Source\Repos\Sorting-Algorithms\merge sort\merge sort\bin\Debug\netcoreapp3.1\merge sort.runtimeconfig.json
+C:\Users\CM\Source\Repos\Sorting-Algorithms\merge sort\merge sort\bin\Debug\netcoreapp3.1\merge sort.runtimeconfig.dev.json
+C:\Users\CM\Source\Repos\Sorting-Algorithms\merge sort\merge sort\bin\Debug\netcoreapp3.1\merge sort.dll
+C:\Users\CM\Source\Repos\Sorting-Algorithms\merge sort\merge sort\bin\Debug\netcoreapp3.1\merge sort.pdb
+C:\Users\CM\Source\Repos\Sorting-Algorithms\merge sort\merge sort\obj\Debug\netcoreapp3.1\merge sort.csproj.AssemblyReference.cache
+C:\Users\CM\Source\Repos\Sorting-Algorithms\merge sort\merge sort\obj\Debug\netcoreapp3.1\merge sort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CM\Source\Repos\Sorting-Algorithms\merge sort\merge sort\obj\Debug\netcoreapp3.1\merge sort.AssemblyInfoInputs.cache
+C:\Users\CM\Source\Repos\Sorting-Algorithms\merge sort\merge sort\obj\Debug\netcoreapp3.1\merge sort.AssemblyInfo.cs
+C:\Users\CM\Source\Repos\Sorting-Algorithms\merge sort\merge sort\obj\Debug\netcoreapp3.1\merge sort.csproj.CoreCompileInputs.cache
+C:\Users\CM\Source\Repos\Sorting-Algorithms\merge sort\merge sort\obj\Debug\netcoreapp3.1\merge sort.dll
+C:\Users\CM\Source\Repos\Sorting-Algorithms\merge sort\merge sort\obj\Debug\netcoreapp3.1\merge sort.pdb
+C:\Users\CM\Source\Repos\Sorting-Algorithms\merge sort\merge sort\obj\Debug\netcoreapp3.1\merge sort.genruntimeconfig.cache

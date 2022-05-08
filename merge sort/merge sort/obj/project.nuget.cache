@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zt+vY5rIMgZDc4T4i5oe1uTwMwk0lC6hMcl2c6sdLZ/FczVV70BD3lTFciAe/rXsq5N40UYvbmQpIXyMt6WnNg==",
+  "dgSpecHash": "rCjnYo9rfD7Fv7TNc496TEakODmKXEu4r842yJHDIwCFLDM4PFJ6M02xT6HKr8R7KtkLVd5oRstB3LNGY5oE1w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\CM\\source\\repos\\merge sort\\merge sort\\merge sort.csproj",
+  "projectFilePath": "C:\\Users\\CM\\Source\\Repos\\Sorting-Algorithms\\merge sort\\merge sort\\merge sort.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
